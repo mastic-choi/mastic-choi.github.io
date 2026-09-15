@@ -1,17 +1,6 @@
-# Quartz v5
+# mastic-choi.github.io
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+최준수의 논문 분석 노트 아카이브. [Quartz](https://quartz.jzhao.xyz/)로 빌드되며, Obsidian 볼트의 `article` 폴더 내용을 그대로 발행합니다.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- 로컬 미리보기: `npx quartz build --serve`
+- 콘텐츠 동기화 & 배포: `npx quartz sync`
